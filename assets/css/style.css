@@ -1,0 +1,14 @@
+section {
+    width: 400px;
+    background-color:blanchedalmond;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+hr {
+    background-color:#FF0000;
+    color:#FF0000;
+    border:#FF0000;
+    height:2px;
+  }
